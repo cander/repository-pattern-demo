@@ -1,6 +1,6 @@
 // dotnet add package System.Data.SqlClient
 
-using System.Data.SqlClient;
+using Microsoft.Data.SqlClient;
 using Ado.Model.Base;
 
 namespace Ado.Infrastructure;
